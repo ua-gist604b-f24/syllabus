@@ -17,17 +17,17 @@ This class is logically divided into units to be completed over a seven-week tim
 | --- | --- | --- | ---  |
 |  **![open source](./media/open-source-32.png) Module 0: Introduction and Open Source** |  |  |  |
 | ![zoom icon](media/play-icon.png) [Lecture - Introduction and Open Source]() | | | |
-|  [0-0 GitHub Hello]() | |  | 10 |
-|  [0-1 Open Source Discovery]() | |  | 10 |
+|  [0-0 GitHub Hello](https://classroom.github.com/a/IYSMI7Bz) | |  | 10 |
+|  [0-1 Open Source Discovery](https://classroom.github.com/a/WREshqlr) | |  | 10 |
 |  **![git](./media/git-32.png) Module 1: Git and SCM** |  |  |  |
-|  [1-0 GitHub Branch]() | | | 10 |
-|  [1-1 GitHub Desktop]() | |  | 10 |
+|  [1-0 GitHub Branch](https://classroom.github.com/a/HC9jrGMc) | | | 10 |
+|  [1-1 GitHub Desktop](https://classroom.github.com/a/SasmvBcB) | |  | 10 |
 |  **![qgis](./media/qgis-32.png) Module 2: QGIS** |  |  |  | 
 | ![zoom icon](media/play-icon.png) [Lecture - QGIS]() | | | |
-|  [2-0 QGIS Tutorials (Intro)]() |  |  | 10 |
-|  [2-1 QGIS Tutorials (Intermediate)]() |  | | 10 |
-|  [2-2 QGIS Tutorials (Advanced)]() |  |  | 10 |
-|  [2-3 QGIS Secret Mutant Hero Team]() |  | | 10 |
+|  [2-0 QGIS Tutorials (Intro)](https://classroom.github.com/a/MP_txIYc) |  |  | 10 |
+|  [2-1 QGIS Tutorials (Intermediate)](https://classroom.github.com/a/TC0f571J) |  | | 10 |
+|  [2-2 QGIS Tutorials (Advanced)](https://classroom.github.com/a/4rT6omjS) |  |  | 10 |
+|  [2-3 QGIS Secret Mutant Hero Team](https://classroom.github.com/a/wEBxVbR5) |  | | 10 |
 |  **![docker](./media/docker-32.png) Module 3: Docker** |  |  |  |
 | ![zoom icon](media/play-icon.png) [Lecture- QGIS and Codespaces]() | | | |
 |  [3-0 Codespace Intro]() | | | 10 |
