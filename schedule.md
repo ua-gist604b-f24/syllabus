@@ -40,7 +40,7 @@ This class is logically divided into units to be completed over a seven-week tim
 |  [5-1 PostGIS OSM Load](https://classroom.github.com/a/2q-2IOdK) | |  | 10 |
 |  **![postgis](./media/ogc-32.png) Module 6: OGC Web Services** |  |  |  |
 |  [6-0 MapServer Intro]() |  | | 10 |
-|  [6-1 MapServer OSM Load]( | |  | 10 |
+|  [6-1 MapServer OSM Load]() | |  | 10 |
 |  **![leaflet](./media/leaflet-32.png) Module 7: Open Source GIS Web Development** |  |  |  |
 |  [7-0 WebGIS - Leaflet](https://classroom.github.com/a/BVSuCEhp) |  |  | 10 |
 |  [7-1 WebGIS - Python Web App](https://classroom.github.com/a/aLgHkf3K) | | | 10 |
