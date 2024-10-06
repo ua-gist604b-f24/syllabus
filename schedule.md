@@ -38,10 +38,10 @@ This class is logically divided into units to be completed over a seven-week tim
 |  **![postgis](./media/postgis-32.png) Module 5: Open Source Spatial RDBMS - PostGIS** |  |  |  |
 |  [5-0 PostGIS Intro](https://classroom.github.com/a/gP1qQjHl) |  | | 10 |
 |  [5-1 PostGIS OSM Load](https://classroom.github.com/a/2q-2IOdK) | |  | 10 |
-|  **![postgis](./media/postgis-32.png) Module 6: OGC Web Services** |  |  |  |
+|  **![postgis](./media/ogc-32.png) Module 6: OGC Web Services** |  |  |  |
 |  [6-0 MapServer Intro]() |  | | 10 |
 |  [6-1 MapServer OSM Load]( | |  | 10 |
-|  **![leaflet](./media/ogc-32.png) Module 7: Open Source GIS Web Development** |  |  |  |
+|  **![leaflet](./media/leaflet-32.png) Module 7: Open Source GIS Web Development** |  |  |  |
 |  [7-0 WebGIS - Leaflet](https://classroom.github.com/a/BVSuCEhp) |  |  | 10 |
 |  [7-1 WebGIS - Python Web App](https://classroom.github.com/a/aLgHkf3K) | | | 10 |
 |  **![leaflet](./media/gdal-32.png) Module 8: Open Source Tools - GDAL/OGR** |  |  |  |
