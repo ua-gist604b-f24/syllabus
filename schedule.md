@@ -41,12 +41,12 @@ This class is logically divided into units to be completed over a seven-week tim
 |  **![postgis](./media/postgis-32.png) Module 6: OGC Web Services** |  |  |  |
 |  [6-0 MapServer Intro]() |  | | 10 |
 |  [6-1 MapServer OSM Load]( | |  | 10 |
-|  **![leaflet](./media/leaflet-32.png) Module 7: Open Source GIS Web Development** |  |  |  |
+|  **![leaflet](./media/ogc-32.png) Module 7: Open Source GIS Web Development** |  |  |  |
 |  [7-0 WebGIS - Leaflet](https://classroom.github.com/a/BVSuCEhp) |  |  | 10 |
 |  [7-1 WebGIS - Python Web App](https://classroom.github.com/a/aLgHkf3K) | | | 10 |
 |  **![leaflet](./media/gdal-32.png) Module 8: Open Source Tools - GDAL/OGR** |  |  |  |
 |  [8-0 GDAL](https://classroom.github.com/a/6NLC_B6B) |  |  | 10 |
-|  **![leaflet](./media/gdal-32.png) Module 9: Machine Learning** |  |  |  |
+|  **![leaflet](./media/ml-32.png) Module 9: Machine Learning** |  |  |  |
 |  [9-0 Classification]() |  |  | 10 |
 |  [9-0 Image Segmentation]() |  |  | 10 |
 
