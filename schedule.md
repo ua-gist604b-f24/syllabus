@@ -30,7 +30,6 @@ This class is logically divided into units to be completed over a seven-week tim
 |  [3-0 Codespace Intro](https://classroom.github.com/a/uHJUQeUo) | | | 10 |
 |  [3-1 Docker](https://classroom.github.com/a/plfQTHoW) | | | 10 |
 |  **![python](./media/python-32.png) Module 4: Open Source GIS Programming with Python** |  |  |  |
-|  ![zoom icon](media/play-icon.png) [_Lecture from the Archive (Intro to Python)_](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=83304fba-424f-430f-87e1-adcc00448e6e) |  |  |  |
 |  [4-0 Python Pandas](https://classroom.github.com/a/xfbK3tUx) |  |  | 10 |
 |  [4-1 Python GeoPandas Intro](https://classroom.github.com/a/H9hIc5v6) |  |  | 10 |
 |  [4-2 Python GeoPandas Join]() |  |  | 10 |
@@ -39,8 +38,8 @@ This class is logically divided into units to be completed over a seven-week tim
 |  [5-0 PostGIS Intro](https://classroom.github.com/a/gP1qQjHl) |  | | 10 |
 |  [5-1 PostGIS OSM Load](https://classroom.github.com/a/2q-2IOdK) | |  | 10 |
 |  **![postgis](./media/ogc-32.png) Module 6: OGC Web Services** |  |  |  |
-|  [6-0 MapServer Intro]() |  | | 10 |
-|  [6-1 MapServer OSM Load]() | |  | 10 |
+|  [6-0 OGC Services](https://classroom.github.com/a/n-is4RVh) |  | | 10 |
+|  [6-1 OGC Services - OSM Load](https://classroom.github.com/a/3vzuNZQe) | |  | 10 |
 |  **![leaflet](./media/leaflet-32.png) Module 7: Open Source GIS Web Development** |  |  |  |
 |  [7-0 WebGIS - Leaflet](https://classroom.github.com/a/BVSuCEhp) |  |  | 10 |
 |  [7-1 WebGIS - Python Web App](https://classroom.github.com/a/aLgHkf3K) | | | 10 |
