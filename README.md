@@ -15,7 +15,7 @@ This course is a brief introduction to a number of open source GIS software appl
 Visit https://covid19.arizona.edu/updates for more updates.
 
 ### A note on D2L and GitHub
-To be compatible with existing U of A infrastructure and protocols I will handle grades and some limited communication through *D2L* but the majority of the online interaction in this class will involve *GitHub* and *Piazza*. As a complement to in-class discussion, we use Piazza to post class-wide questions and discussions. You can always email me (aaryn@email.arizona.edu) as well.
+To be compatible with existing U of A infrastructure and protocols I will handle grades and some limited communication through *D2L* but the majority of the online interaction in this class will involve *GitHub*. As a complement to in-class discussion, we use [GitHub Discussions](https://github.com/ua-gist604b-f24/syllabus/discussions) to post class-wide questions and discussions. You can always email me (aaryn@email.arizona.edu) as well.
 
 ### Class requirements
 All students:
@@ -36,12 +36,12 @@ Remote students: The following are required in order to complete this class remo
 - Docker Hub
 
 ### Getting Started
-You may wonder how to get started. If you login to D2L you will find things a bit bare (The Syllabus is linked there but its home is https://github.com/ua-gist604b-s24/syllabus). You have two initial setup steps to get configured to use the class:
+You may wonder how to get started. If you login to D2L you will find things a bit bare (The Syllabus is linked there but its home is https://github.com/ua-gist604b-f24/syllabus). You have two initial setup steps to get configured to use the class:
 
 1) Create a GitHub.com account if you do not already have one with [this link](https://github.com/join). For the sake of class management, please try to pick a username that is close to your NetID or includes your name. 
 
 2) Review this GitHub repository:
-  - https://github.com/ua-gist604b-s24/syllabus
+  - https://github.com/ua-gist604b-f24/syllabus
   You will see that it contains three files:
     - this document: [README.md](README.md) 
     - the syllabus: [syllabus.md](syllabus.md)
