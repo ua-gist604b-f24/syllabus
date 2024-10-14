@@ -21,7 +21,7 @@ This class is logically divided into units to be completed over a seven-week tim
 | [![zoom icon](media/play-icon.png) Lecture 2 - Open Source Software](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4bc28b8c-548c-4ade-bfa1-b209013c23bd) | | | |
 |  [0-1 Open Source Discovery](https://classroom.github.com/a/WREshqlr) | |  | 10 |
 |  **![git](./media/git-32.png) Module 1: Source Code Management (git)** |  |  |  |
-| [![zoom icon](media/play-icon.png) Lecture 3 - GitHub Branch]() | | | |
+| [![zoom icon](media/play-icon.png) Lecture 3 - GitHub Branch](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4d8f0640-1139-4570-b06c-b209016246e5) | | | |
 |  [1-0 GitHub Branch](https://classroom.github.com/a/HC9jrGMc) | | | 10 |
 | [![zoom icon](media/play-icon.png) Lecture 4 - GitHub Desktop](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e5e360e3-449f-4038-ac73-b20901576039) | | | |
 |  [1-1 GitHub Desktop](https://classroom.github.com/a/SasmvBcB) | |  | 10 |
