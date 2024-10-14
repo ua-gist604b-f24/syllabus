@@ -16,7 +16,7 @@ This class is logically divided into units to be completed over a seven-week tim
 |  **Name** | **Start Date** | **Due Date** | **Points** |
 | --- | --- | --- | ---  |
 |  **![open source](./media/open-source-32.png) Module 0: Introduction and Open Source** |  |  |  |
-| [![zoom icon](media/play-icon.png) Lecture 1 - Class Intro](https://arizona.zoom.us/rec/share/Bm7OjfPiLmivmS-EUnu4u_hU8CrwoZoNF6IK4wD1xxsAFCwc3JK8E2mrVycmnOrv.Z0oyhA5HCQXD0i32?startTime=1728849444000) | | | |
+| [![zoom icon](media/play-icon.png) Lecture 1 - Class Intro](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=cb965e7c-2ccd-4ac6-9ea3-b2090144ebfd) | | | |
 |  [0-0 GitHub Hello](https://classroom.github.com/a/IYSMI7Bz) | |  | 10 |
 | [![zoom icon](media/play-icon.png) Lecture 2 - Open Source Software](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4bc28b8c-548c-4ade-bfa1-b209013c23bd) | | | |
 |  [0-1 Open Source Discovery](https://classroom.github.com/a/WREshqlr) | |  | 10 |
