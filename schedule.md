@@ -23,7 +23,7 @@ This class is logically divided into units to be completed over a seven-week tim
 |  **![git](./media/git-32.png) Module 1: Source Code Management (git)** |  |  |  |
 | [![zoom icon](media/play-icon.png) Lecture 3 - GitHub Branch]() | | | |
 |  [1-0 GitHub Branch](https://classroom.github.com/a/HC9jrGMc) | | | 10 |
-| [![zoom icon](media/play-icon.png) Lecture 4 - GitHub Desktop]() | | | |
+| [![zoom icon](media/play-icon.png) Lecture 4 - GitHub Desktop](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e5e360e3-449f-4038-ac73-b20901576039) | | | |
 |  [1-1 GitHub Desktop](https://classroom.github.com/a/SasmvBcB) | |  | 10 |
 |  **![qgis](./media/qgis-32.png) Module 2: Open Source Desktop GIS - QGIS** |  |  |  | 
 |  [2-0 QGIS Tutorials (Intro)](https://classroom.github.com/a/MP_txIYc) |  |  | 10 |
