@@ -26,8 +26,7 @@ This class is logically divided into units to be completed over a seven-week tim
 | [![zoom icon](media/play-icon.png) Lecture 4 - GitHub Desktop](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e5e360e3-449f-4038-ac73-b20901576039) | | | |
 |  [1-1 GitHub Desktop](https://classroom.github.com/a/SasmvBcB) | |  | 10 |
 |  **![qgis](./media/qgis-32.png) Module 2: Open Source Desktop GIS - QGIS** |  |  |  | 
-| [![zoom icon](media/play-icon.png) Lecture 5 - QGIS](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6c642c9f-07aa-4928-b0a3-b209017c04bf
-) | | | |
+| [![zoom icon](media/play-icon.png) Lecture 5 - QGIS](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6c642c9f-07aa-4928-b0a3-b209017c04bf) | | | |
 |  [2-0 QGIS Tutorials (Intro)](https://classroom.github.com/a/MP_txIYc) |  |  | 10 |
 |  [2-1 QGIS Tutorials (Intermediate)](https://classroom.github.com/a/TC0f571J) |  | | 10 |
 |  [2-2 QGIS Tutorials (Advanced)](https://classroom.github.com/a/4rT6omjS) |  |  | 10 |
