@@ -32,6 +32,7 @@ This class is logically divided into units to be completed over a seven-week tim
 |  [2-2 QGIS Tutorials (Advanced)](https://classroom.github.com/a/4rT6omjS) |  | 10/27 | 10 |
 |  [2-3 QGIS Secret Mutant Hero Team](https://classroom.github.com/a/wEBxVbR5) |  | 10/27 | 10 |
 |  **![docker](./media/docker-32.png) Module 3: Containerization - Docker** |  |  |  |
+| [![zoom icon](media/play-icon.png) Lecture 6 - Codespaces](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=44affad6-ab4c-4a47-a487-b20f016349ef) | | | |
 |  [3-0 Codespace Intro](https://classroom.github.com/a/uHJUQeUo) | | 10/31 | 10 |
 |  [3-1 Docker](https://classroom.github.com/a/plfQTHoW) | | 10/31 | 10 |
 |  **![python](./media/python-32.png) Module 4: Open Source GIS Programming with Python** |  |  |  |
