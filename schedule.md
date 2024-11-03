@@ -39,6 +39,7 @@ This class is logically divided into units to be completed over a seven-week tim
 |  **![python](./media/python-32.png) Module 4: Open Source GIS Programming with Python** |  |  |  |
 | [![zoom icon](media/play-icon.png) Lecture 8 - Python Pandas](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=17cd8057-b202-4307-9615-b21d015ec8a2) | | | |
 |  [4-0 Python Pandas](https://classroom.github.com/a/xfbK3tUx) |  | 11/10 | 10 |
+| [![zoom icon](media/play-icon.png) Lecture 9 - Python Geopandas](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8d358d4f-34fe-408a-ab50-b21d0175184c) | | | |
 |  [4-1 Python GeoPandas Intro](https://classroom.github.com/a/H9hIc5v6) |  | 11/10 | 10 |
 |  [4-2 Python GeoPandas Join](https://classroom.github.com/a/IHkY0iqR) |  | 11/10 | 10 |
 |  [4-3 Python Rasterio](https://classroom.github.com/a/aAqrvCD1)|  | 11/10 | 10 |
