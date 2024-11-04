@@ -41,6 +41,7 @@ This class is logically divided into units to be completed over a seven-week tim
 |  [4-0 Python Pandas](https://classroom.github.com/a/xfbK3tUx) |  | 11/10 | 10 |
 | [![zoom icon](media/play-icon.png) Lecture 9 - Python Geopandas](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8d358d4f-34fe-408a-ab50-b21d0175184c) | | | |
 |  [4-1 Python GeoPandas Intro](https://classroom.github.com/a/H9hIc5v6) |  | 11/10 | 10 |
+| [![zoom icon](media/play-icon.png) Lecture 9 - Python Geopandas](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=bf8ac25f-a0ba-4eb0-aac0-b21d018b1fa4) | | | |
 |  [4-2 Python GeoPandas Join](https://classroom.github.com/a/IHkY0iqR) |  | 11/10 | 10 |
 |  [4-3 Python Rasterio](https://classroom.github.com/a/aAqrvCD1)|  | 11/10 | 10 |
 |  **![postgis](./media/postgis-32.png) Module 5: Open Source Spatial RDBMS - PostGIS** |  |  |  |
