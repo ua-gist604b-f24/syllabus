@@ -46,6 +46,7 @@ This class is logically divided into units to be completed over a seven-week tim
 | [![zoom icon](media/play-icon.png) Lecture 11 - Python Rasterio](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2b99340d-c4b8-4698-b240-b21e002278d4) | | | |
 |  [4-3 Python Rasterio](https://classroom.github.com/a/aAqrvCD1)|  | 11/10 | 10 |
 |  **![postgis](./media/postgis-32.png) Module 5: Open Source Spatial RDBMS - PostGIS** |  |  |  |
+| [![zoom icon](media/play-icon.png) Lecture 12 - SQL Intro](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a58d5957-1163-43a1-aac6-b2250116905a) | | | |
 |  [5-0 SQL Intro](https://classroom.github.com/a/9fEOmZEw) |  | 11/17 | 10 |
 |  [5-1 PostGIS Intro](https://classroom.github.com/a/xNsODn_X) |  | 11/17 | 10 |
 |  [5-2 PostGIS OSM Load](https://classroom.github.com/a/r4mQrMkL) | | 11/17 | 10 |
