@@ -50,6 +50,7 @@ This class is logically divided into units to be completed over a seven-week tim
 |  [5-0 SQL Intro](https://classroom.github.com/a/9fEOmZEw) |  | 11/17 | 10 |
 | [![zoom icon](media/play-icon.png) Lecture 13 - PostGIS Intro](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a34810f7-3550-49f8-94bb-b225014edb55) | | | |
 |  [5-1 PostGIS Intro](https://classroom.github.com/a/bztjAmVF) |  | 11/17 | 10 |
+| [![zoom icon](media/play-icon.png) Lecture 14 - PostGIS OSM Load](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=545ed719-9f69-4f41-86c8-b22501621065) | | | |
 |  [5-2 PostGIS OSM Load](https://classroom.github.com/a/r4mQrMkL) | | 11/17 | 10 |
 |  **![postgis](./media/ogc-32.png) Module 6: OGC Web Services** |  |  |  |
 |  6-0 OGC Services |  | 11/21 | 10 |
