@@ -53,8 +53,9 @@ This class is logically divided into units to be completed over a seven-week tim
 | [![zoom icon](media/play-icon.png) Lecture 14 - PostGIS OSM Load](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=545ed719-9f69-4f41-86c8-b22501621065) | | | |
 |  [5-2 PostGIS OSM Load](https://classroom.github.com/a/r4mQrMkL) | | 11/17 | 10 |
 |  **![postgis](./media/ogc-32.png) Module 6: OGC Web Services** |  |  |  |
-|  6-0 OGC Services |  | 11/21 | 10 |
-|  6-1 OGC Services - OSM Load | | 11/21 | 10 |
+|  [6-0 Geoserver Intro](https://classroom.github.com/a/Z3HN3w9E) |  | 11/24 | 10 |
+|  [6-1 Geoserver - OSM Load](https://classroom.github.com/a/D7ZpWc_n) | | 11/24 | 10 |
+|  [6-2 Geoserver - OSM Styles](https://classroom.github.com/a/ssumnDT4) | | 11/24 | 10 |
 |  **![leaflet](./media/leaflet-32.png) Module 7: Open Source GIS Web Development** |  |  |  |
 |  7-0 WebGIS - Leaflet |  | 11/28 | 10 |
 |  7-1 WebGIS - Python Web App | | 11/28 | 10 |
