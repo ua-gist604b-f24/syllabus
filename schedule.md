@@ -55,16 +55,15 @@ This class is logically divided into units to be completed over a seven-week tim
 |  **![postgis](./media/ogc-32.png) Module 6: OGC Web Services** |  |  |  |
 |  [6-0 Geoserver Intro](https://classroom.github.com/a/Z3HN3w9E) |  | 11/24 | 10 |
 | [![zoom icon](media/play-icon.png) Lecture 15 - Geoserver Intro](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=668e7ecb-ee10-44d1-9175-b22b018a7b94) | | | |
-|  [6-1 Geoserver - OSM Load](https://classroom.github.com/a/D7ZpWc_n) | | 11/24 | 10 |
-|  [6-2 Geoserver - OSM Styles](https://classroom.github.com/a/ssumnDT4) | | 11/24 | 10 |
+|  [6-1 Geoserver - OSM Load](https://classroom.github.com/a/D7ZpWc_n) | | 11/27 | 10* |
+| [![zoom icon](media/play-icon.png) Lecture 16 - Geoserver OSM Load](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8432ba99-2d4f-444b-8f35-b2320167abc8) | | | |
+|  [6-2 Geoserver - OSM Styles](https://classroom.github.com/a/ssumnDT4) | | 11/27 | 10 |
+| [![zoom icon](media/play-icon.png) Lecture 17 - Geoserver OSM Styles](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c64775e4-62c1-4315-96af-b2320167cfcd) | | | |
 |  **![leaflet](./media/leaflet-32.png) Module 7: Open Source GIS Web Development** |  |  |  |
-|  7-0 WebGIS - Leaflet |  | 11/28 | 10 |
-|  7-1 WebGIS - Python Web App | | 11/28 | 10 |
+|  7-0 WebGIS - Leaflet |  | 12/2 | 10 |
+|  7-1 WebGIS - Python Web App | | 12/2 | 10 |
 |  **![leaflet](./media/gdal-32.png) Module 8: Open Source Tools - GDAL/OGR** |  |  |  |
-|  [8-0 GDAL](https://classroom.github.com/a/6NLC_B6B) |  | 11/28 | 10 |
-|  **![leaflet](./media/ml-32.png) Module 9: Machine Learning** |  |  |  |
-|  9-0 Classification |  | 12/5 | 10 |
-|  9-0 Image Segmentation |  | 12/5 | 10 |
+|  [8-0 GDAL](https://classroom.github.com/a/6NLC_B6B) |  | 12/5 | 10 |
 
 ## Official Dates
 See https://www.registrar.arizona.edu/dates-and-deadlines
