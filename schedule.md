@@ -60,10 +60,10 @@ This class is logically divided into units to be completed over a seven-week tim
 |  [6-2 Geoserver - OSM Styles](https://classroom.github.com/a/ssumnDT4) | | 11/27 | 10 |
 | [![zoom icon](media/play-icon.png) Lecture 17 - Geoserver OSM Styles](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c64775e4-62c1-4315-96af-b2320167cfcd) | | | |
 |  **![leaflet](./media/leaflet-32.png) Module 7: Open Source GIS Web Development** |  |  |  |
-|  7-0 WebGIS - Leaflet |  | 12/2 | 10 |
-|  7-1 WebGIS - Python Web App | | 12/2 | 10 |
+|  [7-0 WebGIS - Leaflet](https://classroom.github.com/a/BVSuCEhp) |  | 12/8 | 10 |
+|  [7-1 WebGIS - Python Web App](https://classroom.github.com/a/aLgHkf3K) | | 12/8 | 10 |
 |  **![leaflet](./media/gdal-32.png) Module 8: Open Source Tools - GDAL/OGR** |  |  |  |
-|  [8-0 GDAL](https://classroom.github.com/a/6NLC_B6B) |  | 12/5 | 10 |
+|  [8-0 GDAL](https://classroom.github.com/a/6NLC_B6B) |  | 12/8 | 10 |
 
 ## Official Dates
 See https://www.registrar.arizona.edu/dates-and-deadlines
